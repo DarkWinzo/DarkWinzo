@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/6JHk8WK">
+ <a href="https://ibb.co/6JHk8WK"><img src="https://i.ibb.co/VpgsxqF/Dark-Winzo.jpg" alt="Dark-Winzo" border="0"></a>
   <h1>🎲 ɯα.ҽχҽ > тє¢нηι¢αℓ нα¢кєя 💀</h1>
 </div>
 
