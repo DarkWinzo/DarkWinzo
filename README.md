@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/4SBckbV/LOGO.jpg" width="300" height="300">
+  <img src="https://ibb.co/6JHk8WK" width="300" height="300">
   <h1>🎲 ɯα.ҽχҽ > тє¢нηι¢αℓ нα¢кєя 💀</h1>
 </div>
 
