@@ -78,7 +78,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
+<a href="https://www" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
 <a href="https://www.instagram.com/liyanage_tharindu_?r=nametag" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
 <a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="NOIZE" height="50" width="60" /></a>
 
