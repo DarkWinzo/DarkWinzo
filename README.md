@@ -79,7 +79,6 @@
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://wa.me/+94717301848" target="blank"><img align="center" src="https://i.postimg.cc/jSsd3NLv/whatsapp-logo-png-2259.png"alt="Isuru_Lakshan  " height="54" width="54" /></a>
-<a href="darkwinzo2240@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="DarkWinzo" height="50" width="60" /></a>
 
 <p align="left"
 
