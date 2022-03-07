@@ -94,7 +94,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkWinzo&show_icons=true&layout=compact&theme=nightowl" alt="Dark Winzo" /></p>
 
-![DarkWinzo](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+![DarkWinzo](https://github.com/DarkWinzo/Statics/blob/master/generated/languages.svg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=nightowl" alt="DarkWinzo" /></p>
