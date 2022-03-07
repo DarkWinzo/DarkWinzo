@@ -92,7 +92,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="Dark Winzo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkWinzo&show_icons=true&layout=compact&theme=nightowl" alt="Dark Winzo" /></p>
 
 ![DarkWinzo](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
 
