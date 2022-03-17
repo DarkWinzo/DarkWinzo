@@ -119,3 +119,41 @@ If you have any question for me ı put my contact information above.
 See ya 💘
 
 </details>
+
+---
+## 🎧 Spotify Playing
+
+[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackAmda&show_icons=true&theme=highcontrast" alt="BlackAmda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackAmda&theme=highcontrast" alt="BlackAmda" /></p>
+</details>
+
+---
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/amda_niwasa_official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="BlackAmda" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Black_Amda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="BlackAmda" height="30" width="40" /></a>
+</p>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=BlackAmda)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/BlackAmda?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/BlackAmda/QueenAmdi)
+
+</details>
+
+
+
