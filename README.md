@@ -83,14 +83,6 @@
   
 
 
-</p>
-### [!Pull Up My [Blog!](https://t.me/DarkWinzo)]
-<p align="left">
-<a href="https://t.me/DarkWinzo" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Isuru's Blog  " height="54" width="54" /></a>
-
-</p>
-
-
 ---
 
 
@@ -99,6 +91,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
 </details>
 
+
+#### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
+
+#### 👨‍💻 All of my projects are available at > [Official Website](https://amdaniwasa.com) <
+
+#### 💫 **I am a beginner developer. 🌆**
+---
 ---
 <h3 align="left">Contact Me:</h3>
 <p align="left">
