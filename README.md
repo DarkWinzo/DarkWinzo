@@ -22,64 +22,7 @@
 </p>
 
 ##
-  
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
-  
-
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
-</details>
-
-
-#### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
-
-#### 👨‍💻 All of my projects are available at > [Github](https://github.com/DarkWinzo) <
-
-#### 💫 **I am a beginner developer. 🌆**
-
----
-
-### 🔭 My currently working on projects,
-
-<p align="left">
-  <a href="https://github.com/DarkWinzo/Bosco"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Bosco&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Bosco"></a>
-  <a href="https://github.com/DarkWinzo/Darkphisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Darkphisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Darkphisher"></a>
-    <a href="https://github.com/DarkWinzo/CameraHack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=CameraHack&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="CameraHack"></a>
-<a href="https://github.com/DarkWinzo/DarkVirus-Maker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkVirus-Maker&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkVirus-Maker"></a>
-<a href="https://github.com/DarkWinzo/DarkWinzo-Help"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkWinzo-Help&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkWinzo-Help"></a>
-<a href="https://github.com/DarkWinzo/DuckPhisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DuckPhisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DuckPhisher"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
----
-
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://wa.link/y1sv5r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="DarkWinzo" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="DarkWinzo" height="30" width="40" /></a>
-</p>
-
-<p align="left"
-
-<a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
-<details>
-  
-  
----
-  
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
-
-</details>
+--- 
 
 <details>
   <summary><b>My Knowladge💻</b></summary><br/>
@@ -131,6 +74,65 @@
 
 | Repository     | Link     |
 | ---            | ---      |
+</details>
+
+
+----
+  
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
+  
+---
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
+</details>
+
+
+#### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
+
+#### 👨‍💻 All of my projects are available at > [Github](https://github.com/DarkWinzo) <
+
+#### 💫 **I am a beginner developer. 🌆**
+
+---
+
+### 🔭 My currently working on projects,
+
+<p align="left">
+  <a href="https://github.com/DarkWinzo/Bosco"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Bosco&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Bosco"></a>
+  <a href="https://github.com/DarkWinzo/Darkphisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Darkphisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Darkphisher"></a>
+    <a href="https://github.com/DarkWinzo/CameraHack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=CameraHack&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="CameraHack"></a>
+<a href="https://github.com/DarkWinzo/DarkVirus-Maker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkVirus-Maker&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkVirus-Maker"></a>
+<a href="https://github.com/DarkWinzo/DarkWinzo-Help"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkWinzo-Help&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkWinzo-Help"></a>
+<a href="https://github.com/DarkWinzo/DuckPhisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DuckPhisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DuckPhisher"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+---
+
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://wa.link/y1sv5r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="DarkWinzo" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="DarkWinzo" height="30" width="40" /></a>
+</p>
+
+<p align="left"
+
+<a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
+<details>
+  
+  
+---
+  
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
+
 </details>
 
 
