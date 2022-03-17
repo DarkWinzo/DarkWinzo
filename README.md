@@ -8,38 +8,7 @@
 ##
 
 
-echo -e $red "╔────────────────────────────────────────────────╗"
-echo -e $red "|    Evil-Droid Framework $ver - Dev-labs.co     |"
-echo -e $red "|   Please do not upload APK to VirusTotal.com   |"
-echo -e $red "┖────────────────────────────────────────────────┙"
-#function ascii banner
-function print_ascii_art {
-echo -e $lightgreen "             .           .           "          
-echo -e $lightgreen "             M.          .M          "     
-echo -e $lightgreen "              MMMMMMMMMMM.           "     
-echo -e $lightgreen "           .MMM\MMMMMMM/MMM.         "     
-echo -e $lightgreen "          .MMM.7MMMMMMM.7MMM.        "     
-echo -e $lightgreen "         .MMMMMMMMMMMMMMMMMMM        "     
-echo -e $lightgreen "         MMMMMMM.......MMMMMMM       "     
-echo -e $lightgreen "         MMMMMMMMMMMMMMMMMMMMM       "     
-echo -e $lightgreen "    MMMM MMMMMMMMMMMMMMMMMMMMM MMMM  "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "   dMMMM.MMMMMMMMMMMMMMMMMMMMM.MMMMD "   
-echo -e $lightgreen "    MMM8 MMMMMMMMMMMMMMMMMMMMM 8MMM  "   
-echo -e $lightgreen "         MMMMMMMMMMMMMMMMMMMMM       "   
-echo -e $lightgreen "         MMMMMMMMMMMMMMMMMMMMM       "   
-echo -e $lightgreen "             MMMMM   MMMMM  $ver     "   
-echo -e $lightgreen "             MMMMM   MMMMM           "   
-echo -e $lightgreen "             MMMMM   MMMMM           "   
-echo -e $lightgreen "             MMMMM   MMMMM           "   
-echo -e $lightgreen "             .MMM.   .MMM.           " 
-echo -e $lightgreen "     Mascerano Bachir - Dev-labs     "                                 
-}
+
 
 <p align="center">
   <a href="https://github.com/DarkWinzo/">
