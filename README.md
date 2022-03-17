@@ -96,36 +96,9 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkWinzo&show_icons=true&layout=compact&theme=nightowl" alt="Dark Winzo" /></p>
-
-![DarkWinzo](https://github.com/DarkWinzo/Statics/blob/master/generated/languages.svg)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=nightowl" alt="DarkWinzo" /></p>
-</details>
-
-
-<details>
-    <summary><b>☄️ About Me </b></summary><br/>
-Hi, I'm DarkWinzo
-
-I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
-
-I am 19 yeas old. From Sri Lanka 🇱🇰 
-
-I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
-If you have any question for me ı put my contact information above.
-
-See ya 💘
-
-</details>
 
 ---
-## 🎧 Spotify Playing
 
-[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
-
----
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackAmda&show_icons=true&theme=highcontrast" alt="BlackAmda" /></p>
 
@@ -154,6 +127,23 @@ See ya 💘
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/BlackAmda/QueenAmdi)
 
 </details>
+## 🎧 Spotify Playing
 
+[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
 
+---
 
+<details>
+    <summary><b>☄️ About Me </b></summary><br/>
+Hi, I'm DarkWinzo
+
+I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
+
+I am 19 yeas old. From Sri Lanka 🇱🇰 
+
+I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
+If you have any question for me ı put my contact information above.
+
+See ya 💘
+
+</details>
