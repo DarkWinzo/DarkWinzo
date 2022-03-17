@@ -128,6 +128,9 @@
 
 <a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
 <details>
+  
+  ---
+  
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
@@ -143,11 +146,12 @@
 
 </details>
 
----
-
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
-Hi, I'm DarkWinzo
+  
+---
+  
+  Hi, I'm DarkWinzo
 
 I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
 
@@ -159,3 +163,5 @@ If you have any question for me ı put my contact information above.
 See ya 💘
 
 </details>
+
+---
