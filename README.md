@@ -94,7 +94,7 @@
 
 #### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
 
-#### 👨‍💻 All of my projects are available at > [My Website](https://techtips.zyrosite.com) <
+#### 👨‍💻 All of my projects are available at > [Github](https://github.com/DarkWinzo) <
 
 #### 💫 **I am a beginner developer. 🌆**
 ---
