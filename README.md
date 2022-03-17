@@ -90,7 +90,7 @@
 <a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="NOIZE YouTube" height="46" width="70" /></a>
 
 </p>
-### Pull Up My [Blog!](https://t.me/DarkWinzo)
+### [!Pull Up My [Blog!](https://t.me/DarkWinzo)]
 <p align="left">
 <a href="https://t.me/DarkWinzo" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Isuru's Blog  " height="54" width="54" /></a>
 
