@@ -98,7 +98,7 @@
 
 #### 💫 **I am a beginner developer. 🌆**
 ---
----
+
 ### 🔭 My currently working on projects,
 
 <p align="left">
@@ -107,11 +107,14 @@
     <a href="https://github.com/DarkWinzo/CameraHack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=CameraHack&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="CameraHack"></a>
 <a href="https://github.com/DarkWinzo/DarkVirus-Maker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkVirus-Maker&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkVirus-Maker"></a>
 <a href="https://github.com/DarkWinzo/DarkWinzo-Help"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkWinzo-Help&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkWinzo-Help"></a>
+<a href="https://github.com/DarkWinzo/ DuckPhisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo= DuckPhisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt=" DuckPhisher"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 ---
+
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/DarkWinzo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="DarkWinzo" height="30" width="40" /></a>
