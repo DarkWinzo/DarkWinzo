@@ -77,7 +77,10 @@
 </details>
 
 ##
+  
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
+  
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://wa.me/+94717301848" target="blank"><img align="center" src="https://i.postimg.cc/jSsd3NLv/whatsapp-logo-png-2259.png"alt="Isuru_Lakshan  " height="54" width="54" /></a>
@@ -87,8 +90,6 @@
 <a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="NOIZE YouTube" height="46" width="70" /></a>
 
 </p>
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
 ### Pull Up My [Blog!](https://t.me/DarkWinzo)
 <p align="left">
 <a href="https://t.me/DarkWinzo" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Isuru's Blog  " height="54" width="54" /></a>
