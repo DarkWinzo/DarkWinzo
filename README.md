@@ -129,7 +129,8 @@
 <a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
 <details>
   
-  ---
+  
+---
   
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
