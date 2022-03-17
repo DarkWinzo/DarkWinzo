@@ -120,7 +120,7 @@
 <a href="https://www.instagram.com/DarkWinzo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="DarkWinzo" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="DarkWinzo" height="30" width="40" /></a>
 </p>
-<h3 align="left">Contact Me:</h3>
+<h3 align="left">Call Me:</h3>
 <p align="left">
 <a href="https://wa.me/+94705193038" target="blank"><img align="center" src="https://i.postimg.cc/jSsd3NLv/whatsapp-logo-png-2259.png"alt="Isuru_Lakshan  " height="54" width="54" /></a>
 
