@@ -122,7 +122,7 @@
 <p align="left">
 <a href="https://wa.link/y1sv5r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="DarkWinzo" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="DarkWinzo" height="30" width="40" /></a>
-<a href="https://tttttt.me/DarkWinzo" target="blank"><img align="center" src="https://i.ibb.co/S7p74bS/telegrame.png" alt="DarkWinzo" height="30" width="40" /></a>   
+<a href="https://tttttt.me/DarkWinzo" target="blank"><img align="center" src="https://i.ibb.co/C2VWFV9/telegram-logo-circle-icon-134012.png" alt="DarkWinzo" height="30" width="40" /></a>   
 </p>
 
 <p align="left"
