@@ -1,8 +1,6 @@
 <div align="center">
- 
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi🥰,%20I'm%20🅳🅰🆁🅺%20🆆🅸🅽🆉🅾&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
-
 <img src="https://github.com/DarkWinzo/DarkWinzo/blob/main/DarkWinzo.gif" width="400">
  
  
