@@ -6,8 +6,6 @@
 </p>
 
 ##
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
 
 
 
@@ -89,6 +87,7 @@
 <a href="https://youtube.com" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="NOIZE YouTube" height="46" width="70" /></a>
 
 </p>
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 ### Pull Up My [Blog!](https://t.me/DarkWinzo)
 <p align="left">
