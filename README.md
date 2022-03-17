@@ -21,6 +21,28 @@
   
 </p>
 
+##
+  
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
+  
+
+
+---
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
+</details>
+
+
+#### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
+
+#### 👨‍💻 All of my projects are available at > [Github](https://github.com/DarkWinzo) <
+
+#### 💫 **I am a beginner developer. 🌆**
+
 <details>
   <summary><b>My Knowladge💻</b></summary><br/>
 
@@ -73,27 +95,7 @@
 | ---            | ---      |
 </details>
 
-##
-  
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-  
-
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
-</details>
-
-
-#### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
-
-#### 👨‍💻 All of my projects are available at > [Github](https://github.com/DarkWinzo) <
-
-#### 💫 **I am a beginner developer. 🌆**
 ---
 
 ### 🔭 My currently working on projects,
