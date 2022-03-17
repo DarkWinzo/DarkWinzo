@@ -1,12 +1,6 @@
-<h2 align="center">Hi 🥰 I'm <br> 🅳🅰🆁🅺 🆆🅸🅽🆉🅾 </h1>
-<h4 align="center">🎲 I'm > тє¢нηι¢αℓ нα¢кєя 💀</h3>
-<h4 align="center">I am a Learning. Not more..</h3>
-<p align="center">
-  Also I am Student Developer 
-</p>
-
-##
-
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi🥰,%20I'm%20🅳🅰🆁🅺%20🆆🅸🅽🆉🅾&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
 
 
 <p align="center">
