@@ -100,7 +100,7 @@
 ### 🔭 My currently working on projects,
 
 <p align="left">
-  <a href="https://github.com/DarkWinzo/Bosco"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Bosco&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Bosco"></a>
+  <a href="https://github.com/DarkWinzo/Queen"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Queen&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Queen"></a>
   <a href="https://github.com/DarkWinzo/Darkphisher"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=Darkphisher&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Darkphisher"></a>
     <a href="https://github.com/DarkWinzo/CameraHack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=CameraHack&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="CameraHack"></a>
 <a href="https://github.com/DarkWinzo/DarkVirus-Maker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=DarkVirus-Maker&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DarkVirus-Maker"></a>
