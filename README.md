@@ -1,4 +1,4 @@
- <img align="center" height="1650" src="https://github.com/DarkWinzo/DarkWinzo/blob/master/img/DarkWinzo.jpg"/>
+ <img src="https://github.com/DarkWinzo/DarkWinzo/blob/main/img/DarkWinzo.jpg" height="auto">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
  
