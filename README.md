@@ -107,9 +107,12 @@ CSS                       2 repos            █░░░░░░░░░░�
 Shell                     1 repo             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 Other                     1 repo             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 ```
+ 
+<!--END_SECTION:waka-->
 
+ ---
 
-**Contact Me**
+<h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://wa.link/y1sv5r" target="blank"><img align="center" src="https://i.ibb.co/Zx82rq9/whatsapp-logo-icon-134017.png" alt="DarkWinzo" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://i.ibb.co/qJZqF3T/reddit-socialnetwork-20018.png" alt="DarkWinzo" height="30" width="40" /></a>
@@ -119,9 +122,44 @@ Other                     1 repo             ░░░░░░░░░░░�
 
 <p align="left"
 
-<a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
+<a href="[https://youtube.com](https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A)" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
 <details>
   
   
+---
+  
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
+
+</details>
+
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&theme=highcontrast&repo=DarkWinzo)](https://github.com/DarkWinzo)
+
+</details>
+
+<details>
+    <summary><b>☄️ About Me </b></summary><br/>
+  
+---
+  
+  Hi, I'm DarkWinzo
+
+I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
+
+I am 19 yeas old. From Sri Lanka 🇱🇰 
+
+I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
+If you have any question for me ı put my contact information above.
+
+See ya 💘
+
+</details>
  Last Updated on 27/01/2022 01:12:54 UTC
-<!--END_SECTION:waka-->
+---
