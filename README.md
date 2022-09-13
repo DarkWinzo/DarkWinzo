@@ -41,8 +41,6 @@ if __name__ == "__main__":
   </a>
   
 </p>
-
-##
 --- 
   
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
