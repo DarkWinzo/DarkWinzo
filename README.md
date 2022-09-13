@@ -17,12 +17,12 @@
   
 </p>
 <!--
-
+___
 ![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
 ___
 -->
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
 -->
 
 ---
@@ -40,6 +40,7 @@ class say_hi:
 
 if __name__ == "__main__":
     print(say_hi("Hello there 👋, I'm DarkWInzo, Nice to meet you all!"))
+```
 ---
 <!--START_SECTION:waka--> 
 
