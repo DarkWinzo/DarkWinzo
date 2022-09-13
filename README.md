@@ -4,7 +4,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
  
-<!--
 
 <p align="center">
   <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers">
@@ -17,7 +16,8 @@
   </a>
   
 </p>
-___
+<!--
+
 ![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
 ___
 -->
