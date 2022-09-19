@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/DarkWinzo/DarkWinzo/blob/main/gif/DarkWinzo.gif" height="auto" width="1600">
+<img src="https://i.ibb.co/GWKcBgG/Dark-Winzo.jpg" height="auto" width="2280">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
  
