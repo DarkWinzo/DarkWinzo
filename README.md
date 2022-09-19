@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://i.ibb.co/GWKcBgG/Dark-Winzo.jpg" height="1080" width="2280">
+<img src="https://i.ibb.co/GWKcBgG/Dark-Winzo.jpg" height="1080" width="3000">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
  
