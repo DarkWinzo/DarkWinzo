@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://i.ibb.co/XS694VV/peakpx.jpg" height="1600" width="960">
+<img src="https://i.ibb.co/XS694VV/peakpx.jpg" height="1920" width="1080">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
  
