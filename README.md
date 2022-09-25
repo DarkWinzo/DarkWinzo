@@ -20,9 +20,8 @@
   </a>
   
 </p>
-___
+<!--
 ![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
-___
 -->
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
