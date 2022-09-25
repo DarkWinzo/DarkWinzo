@@ -124,6 +124,17 @@ No Activity Tracked This Week
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
 
  ---
+<p align="center">
+    Please Subscribe My Youtube Channel
+    <br />
+    <br />
+    <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+  </p>
+</p>
+
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
