@@ -138,7 +138,7 @@ No Activity Tracked This Week
   <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
 
-
+<br><br>   
     <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A">
