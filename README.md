@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://youtube.com/c/FadhilGraphy"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Fadhil+Graphy&description=Hello,%20I%20am%20Fadhil%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://avatars.githubusercontent.com/u/83855955?v=4&backgroundColor=%23ecf0f1&instagram=@fdhlgrphy&github=fdhlgrphy&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/FadhilGraphy"/></a>
+</p>
+
 <div align="center">
  
 <img src="https://i.ibb.co/XS694VV/peakpx.jpg" height="auto" width="auto">
