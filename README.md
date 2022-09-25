@@ -154,7 +154,6 @@ No Activity Tracked This Week
 [<img align="left" alt="DarkWinzo | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="DarkWinzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 [<img align="left" alt="DarkWinzo | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][Gmail]
-</div>
 <br />
 
 ---
