@@ -140,6 +140,7 @@ No Activity Tracked This Week
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
+
 ---
   
 <h3>DarkWinzo's Music Player</h3>
