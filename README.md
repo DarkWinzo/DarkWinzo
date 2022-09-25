@@ -153,8 +153,12 @@ No Activity Tracked This Week
 <a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
 <a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="DarkWinzo"/></a>
 <a href="https://telegram.me/DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="DarkWinzo" /></a>   
-<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gamil.png" alt="DarkWinzo" /></a>   
+<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="DarkWinzo" /></a>   
 </p>
+
+---
+
+Last Updated on 25/09/2022 01:12:54 UTC
 
 ---
 
@@ -186,8 +190,8 @@ I am 19 yeas old. From Sri Lanka 🇱🇰
 I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
 If you have any question for me ı put my contact information above.
 
-See ya 💘
+See you 💘
 
 </details>
- Last Updated on 27/01/2022 01:12:54 UTC
+ 
 ---
