@@ -149,13 +149,12 @@ No Activity Tracked This Week
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <div align="center">
-  
 [<img align="left" alt="DarkWinzo" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="DarkWinzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="DarkWinzo | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="DarkWinzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 [<img align="left" alt="DarkWinzo | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][Gmail]
-
+</div>
 <br />
 
 ---
