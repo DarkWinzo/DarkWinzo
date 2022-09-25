@@ -125,11 +125,8 @@ No Activity Tracked This Week
 
  ---
 <p align="center">
-    Please Subscribe My Youtube Channel
-    <br />
-    <br />
-  
-  <div align="center">
+  # Please Subscribe My Youtube Channel
+ <div align="center">
 <br><br> 
 <p align="center">
   <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"/></a></div>
@@ -143,7 +140,7 @@ No Activity Tracked This Week
 </p>
 
   
-<h3>Music Player</h3>
+<h3>DarkWinzo's Music Player</h3>
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
