@@ -156,6 +156,12 @@ No Activity Tracked This Week
 <a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="DarkWinzo" /></a>   
 </p>
 
+--- 
+ 
+ <h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/DarkWinzo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="DarkWinzo" /></a></p>
+</div>
+ 
 ---
 
 ### Last Updated on 25/09/2022 01:12:54 UTC
