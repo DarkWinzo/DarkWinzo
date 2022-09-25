@@ -135,6 +135,9 @@ No Activity Tracked This Week
   </p>
 </p>
 
+<h3>Music Player</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
