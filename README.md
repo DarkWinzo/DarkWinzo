@@ -131,7 +131,7 @@ No Activity Tracked This Week
   
  <br><br> 
 <p align="center">
-  <a href="https://www.youtube.com/c/DarkWinzo"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
   
 <p align="center">
   <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
