@@ -43,7 +43,6 @@ class say_hi:
 if __name__ == "__main__":
     print(say_hi("Hello there 👋, I'm DarkWInzo, Nice to meet you all!"))
 ```
----
 <!--START_SECTION:waka--> 
 
 --- 
