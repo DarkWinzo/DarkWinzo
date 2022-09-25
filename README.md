@@ -20,7 +20,6 @@
   </a>
   
 </p>
-<!--
 ___
 ![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
 ___
