@@ -147,7 +147,7 @@ No Activity Tracked This Week
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <p align="center">
 <a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
@@ -158,7 +158,7 @@ No Activity Tracked This Week
 
 ---
 
-Last Updated on 25/09/2022 01:12:54 UTC
+### Last Updated on 25/09/2022 01:12:54 UTC
 
 ---
 
