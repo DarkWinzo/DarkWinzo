@@ -4,9 +4,7 @@
 <a href="https://github.com/DarkWinzo"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DarkWinzo&description=Hello,%20I%20am%20DarkWinzo.%20I%20am%20beginner%20in%20programming,%20please%20Support%20Me&image=https://i.ibb.co/XS694VV/peakpx.jpg&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DarkWinzo/count.svg" />
-</p>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
