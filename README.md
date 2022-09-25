@@ -130,9 +130,10 @@ No Activity Tracked This Week
     <br />
   
   <div align="center">
-    
+ <br><br>   
 <h7> You only live once, but if you do it right, once is enough.</h7>
 </div>
+  
 <p align="center">
   <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
