@@ -2,10 +2,12 @@
 <a href="https://github.com/DarkWinzo"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DarkWinzo&description=Hello,%20I%20am%20DarkWinzo.%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://i.ibb.co/XS694VV/peakpx.jpg&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
 </p>
 
-<div align="center">   
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
 
-<p align="center">
+
+  <p align="center">
   <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarkWinzo"/></a>
   <a href="https://github.com/DarkWinzo?tab=followers">
