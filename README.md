@@ -21,15 +21,17 @@
   </a>
   
 </p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/DarkWinzo/count.svg" />
+</p>
+
 <!--
 ![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
 -->
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
 -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DarkWinzo/count.svg" />
-</p>
 ---
 ```python
 class say_hi:
