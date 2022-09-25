@@ -115,7 +115,7 @@ Other                     1 repo           ░░░░░░░░░░░░�
 <div align="center">
   
 
-#My currently working Languages and Tools 
+# My currently working Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
 
  ---
