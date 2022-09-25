@@ -148,28 +148,14 @@ No Activity Tracked This Week
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-<div align="center">
-[<img align="left" alt="DarkWinzo" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="DarkWinzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="DarkWinzo | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="DarkWinzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="DarkWinzo | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][Gmail]
-<br />
 
----
-[website]: https://sltechtips.zyrosite.com
-[gmail]: darkwinzo4440@gmail.com
-[whatsapp]: https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo
-[telegram]: https://telegram.me/DarkWinzo
-[instagram]: https://www.instagram.com/DarkWinzo
+<p align="center">
+<a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
+<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="DarkWinzo"/></a>
+<a href="https://telegram.me/DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="DarkWinzo" /></a>   
+<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gamil.png" alt="DarkWinzo" /></a>   
+</p>
 
-
-<p align="left"
-
-<a href="[https://youtube.com](https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A)" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="DarkWinzo YouTube" height="46" width="70" /></a>
-<details>
-  
-  
 ---
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
