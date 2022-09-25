@@ -149,8 +149,8 @@ No Activity Tracked This Week
 
 ---
 
-<p align="center">
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<p align="center">
 <a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
 <a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="DarkWinzo"/></a>
 <a href="https://telegram.me/DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="DarkWinzo" /></a>   
