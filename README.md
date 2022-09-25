@@ -147,13 +147,23 @@ No Activity Tracked This Week
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://wa.link/y1sv5r" target="blank"><img align="center" src="https://i.ibb.co/Zx82rq9/whatsapp-logo-icon-134017.png" alt="DarkWinzo" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Isuru_2003" target="blank"><img align="center" src="https://i.ibb.co/qJZqF3T/reddit-socialnetwork-20018.png" alt="DarkWinzo" height="30" width="40" /></a>
-<a href="https://tttttt.me/DarkWinzo" target="blank"><img align="center" src="https://i.ibb.co/C2VWFV9/telegram-logo-circle-icon-134012.png" alt="DarkWinzo" height="30" width="40" /></a>   
-<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/R3yJhCx/gmail-new-logo-icon-159149.png" alt="DarkWinzo" height="30" width="40" /></a>   
-</p>
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="left" alt="DarkWinzo" height="22px" src="./SocialLogo/Web.png" />][website]
+[<img align="left" alt="DarkWinzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="DarkWinzo | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="DarkWinzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="DarkWinzo | Gmail" height="22px" src="./SocialLogo/Gamil.png" />][Gmail]
+
+<br />
+
+---
+[website]: https://sltechtips.zyrosite.com
+[gmail]: darkwinzo4440@gmail.com
+[whatsapp]: https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo
+[telegram]: https://telegram.me/DarkWinzo
+[instagram]: https://www.instagram.com/DarkWinzo
+
 
 <p align="left"
 
