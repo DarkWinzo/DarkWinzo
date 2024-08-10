@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
 
-![DarkWinzo](https://cardivo.vercel.app/api?name=DarkWinzo&description=Hi,%20I%27m%20a%20JavaScript%20Backside%20API%20developer.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&github=DarkWinzo&pattern=plus&colorPattern=%23eaeaea)
+![DarkWinzo](https://cardivo.vercel.app/api?name=DarkWinzo&description=Hi,%20I%27m%20a%20JavaScript%20Backside%20API%20developer.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&github=DarkWinzo&pattern=topography&colorPattern=%23eaeaea)
 
 <div align="center">
   
