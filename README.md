@@ -1,204 +1,328 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
 
-<a href="https://github.com/DarkWinzo" target="_blank">
-    <img src="https://cardivo.vercel.app/api?name=DarkWinzo&description=Hi,%20I%27m%20a%20JavaScript%20Backside%20API%20developer.%20%F0%9F%91%8B&image=https://cdn3d.iconscout.com/3d/premium/thumb/programmer-8546230-6738603.png?f=webp&set=a.122117227880132673&backgroundColor=%23ecf0f1&github=DarkWinzo&pattern=topography&colorPattern=%23eaeaea" alt="DarkWinzo Banner">
-</a>
+# 🚀 DarkWinzo
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DarkWinzo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51" alt="Header"/>
+</p>
 
-
-  <p align="center">
-  <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarkWinzo"/></a>
-  <a href="https://github.com/DarkWinzo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DarkWinzo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </br></br>
-  <a href="https://github.com/DarkWinzo/Bosco">
-    <img src="https://komarev.com/ghpvc/?username=DarkWinzo&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+<p align="center">
+  <a href="https://github.com/DarkWinzo">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  
+  <a href="mailto:DarkWinzo2240@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/darkwinzo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/darkwinzo">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/DarkWinzo/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=DarkWinzo&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/DarkWinzo?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/DarkWinzo?style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
-<!--
-![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
--->
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
--->
+</div>
+
 ---
-```python
-class say_hi:
 
-    def __init__(self, text) -> None:
-        self.text = text
+## 👨‍💻 About Me
 
-    def __str__(self) -> str:
-        return self.text
-
-    def __repr__(self) -> str:
-        return self.__str__()
-
-if __name__ == "__main__":
-    print(say_hi("Hello there 👋, I'm DarkWInzo, Nice to meet you all!"))
-```
-<!--START_SECTION:waka--> 
-
---- 
+```typescript
+const darkwinzo = {
+  name: "DarkWinzo",
+  location: "Sri Lanka 🇱🇰",
+  age: 19,
+  role: "Full-Stack Developer & AI Enthusiast",
+  education: "Mechatronics Engineering Student",
   
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
- 
+  currentFocus: [
+    "🤖 Artificial Intelligence & Machine Learning",
+    "🌐 Full-Stack Web Development",
+    "📱 Mobile App Development",
+    "🔧 IoT & Embedded Systems"
+  ],
+  
+  languages: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
+  frameworks: ["React", "Node.js", "Express", "Django", "Flutter"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  tools: ["Docker", "AWS", "Git", "Linux", "VS Code"],
+  
+  motto: "Building the future, one line of code at a time ✨"
+};
+```
+
 ---
 
-**🐱 My GitHub Stats** 
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
-</details>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**I'm an Early 🐤** 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-```text
- 🌞 Morning    213 commits    ████████░░░░░░░░░░░░░░░░░   32.52% 
- 🌆 Daytime    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
- 🌃 Evening    180 commits    ██████░░░░░░░░░░░░░░░░░░░   27.48% 
- 🌙 Night      136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76%
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWinzo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkWinzo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkWinzo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Neural Network Framework
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=neural-framework&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DarkWinzo/neural-framework)
+
+**Tech Stack:** Python, TensorFlow, NumPy  
+**Features:** Custom neural network implementation with advanced optimization algorithms
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack E-Commerce Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DarkWinzo/ecommerce-platform)
+
+**Tech Stack:** React, Node.js, MongoDB  
+**Features:** Real-time inventory, payment integration, admin dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Cross-Platform Mobile App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=mobile-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DarkWinzo/mobile-app)
+
+**Tech Stack:** Flutter, Firebase, Dart  
+**Features:** Real-time messaging, cloud sync, offline support
+
+</td>
+<td width="50%">
+
+### 🔧 IoT Monitoring System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&repo=iot-monitor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DarkWinzo/iot-monitor)
+
+**Tech Stack:** Arduino, Raspberry Pi, Python  
+**Features:** Sensor data collection, real-time alerts, web dashboard
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkWinzo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="WakaTime Stats"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkWinzo/DarkWinzo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkWinzo/DarkWinzo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarkWinzo/DarkWinzo/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🎯 Current Goals & Learning
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 2025 Goals] --> B[Master AI/ML]
+    A --> C[Cloud Architecture]
+    A --> D[Open Source Contributions]
+    A --> E[Technical Writing]
+    
+    B --> B1[Deep Learning]
+    B --> B2[Computer Vision]
+    B --> B3[NLP]
+    
+    C --> C1[AWS Solutions Architect]
+    C --> C2[Kubernetes]
+    C --> C3[Microservices]
+    
+    D --> D1[100+ Contributions]
+    D --> D2[Maintain 5+ Projects]
+    
+    E --> E1[Tech Blog]
+    E --> E2[Documentation]
 ```
-📅 **I'm Most Productive on Tuesday** 
 
-```text
- Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
- Tuesday      139 commits    █████░░░░░░░░░░░░░░░░░░░░   21.22% 
- Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
- Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
- Friday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
- Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
- Sunday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
+</div>
 
-```
+---
 
+## 🌟 Achievements & Certifications
 
-📊 **This Week I Spent My Time On** 
+<div align="center">
 
-```text
-⌚︎ Time Zone: Asia/Colombo
+| 🏆 Achievement | 📅 Date | 🔗 Link |
+|:---|:---:|:---:|
+| AWS Certified Developer | 2024 | [View](https://aws.amazon.com/certification/) |
+| Google Cloud Professional | 2024 | [View](https://cloud.google.com/certification) |
+| MongoDB Certified Developer | 2023 | [View](https://university.mongodb.com/) |
+| Hacktoberfest Contributor | 2023 | [View](https://hacktoberfest.com/) |
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+</div>
 
-🔥 Editors: 
-No Activity Tracked This Week
+---
 
-💻 Operating System: 
-No Activity Tracked This Week
+## 📺 Latest YouTube Videos
 
-```
+<!-- YOUTUBE:START -->
+- [Building AI Applications with Python](https://youtube.com/watch?v=example1)
+- [Full-Stack Development Best Practices](https://youtube.com/watch?v=example2)
+- [IoT Projects for Beginners](https://youtube.com/watch?v=example3)
+- [Machine Learning Fundamentals](https://youtube.com/watch?v=example4)
+<!-- YOUTUBE:END -->
 
-**I Mostly Code in Python** 
+<div align="center">
+  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
 
-```text
-  Python                  12 repos             ███████████████░░░░░░░░░░   61.29% 
-  JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-  HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-  CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-  Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-  Other                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-```
- 
-<!--END_SECTION:waka-->
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [The Future of AI in Web Development](https://blog.darkwinzo.dev/ai-web-development)
+- [Building Scalable Microservices with Node.js](https://blog.darkwinzo.dev/microservices-nodejs)
+- [IoT Security Best Practices](https://blog.darkwinzo.dev/iot-security)
+- [Getting Started with Machine Learning](https://blog.darkwinzo.dev/ml-getting-started)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects and discuss the latest in technology! Whether you're interested in AI, web development, IoT, or just want to chat about tech, feel free to reach out.
+
+### 🤝 Open to:
+- 💼 **Freelance Projects** - Full-stack development, AI solutions
+- 🎓 **Mentoring** - Helping newcomers in programming
+- 🚀 **Collaborations** - Open source projects and research
+- 💡 **Consulting** - Technical architecture and best practices
+
+<p align="center">
+  <a href="mailto:DarkWinzo2240@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/darkwinzo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/darkwinzo">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.gg/darkwinzo">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful or interesting, consider supporting my work!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/DarkWinzo">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://github.com/sponsors/DarkWinzo">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+  <a href="https://patreon.com/DarkWinzo">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer"/>
   
-
-# My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
-
- ---
-<p align="center">
-  
-  
-# Please Subscribe My Youtube Channel
-  
- <br><br> 
-<p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
-  
-<p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+  <p>
+    <strong>⭐ Star my repositories if you find them useful!</strong><br>
+    <em>Made with ❤️ by DarkWinzo</em>
   </p>
-</p>
-
----
   
-<h3>DarkWinzo's Music Player</h3>
-
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
-
----
-
-## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-<p align="center">
-<a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
-<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="DarkWinzo"/></a>
-<a href="https://telegram.me/DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="DarkWinzo" /></a>   
-<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="DarkWinzo" /></a>   
-</p>
-
---- 
- 
- <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/DarkWinzo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="DarkWinzo" /></a></p>
+  <p>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  </p>
 </div>
- 
----
-
-### Last Updated on 25/09/2022 01:12:54 UTC
-
----
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
-
-</details>
-
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&theme=highcontrast&repo=DarkWinzo)](https://github.com/DarkWinzo)
-
-</details>
-
-<details>
-    <summary><b>☄️ About Me </b></summary><br/>
-  
----
-  
-  Hi, I'm DarkWinzo
-
-I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
-
-I am 19 yeas old. From Sri Lanka 🇱🇰 
-
-I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
-If you have any question for me ı put my contact information above.
-
-See you 💘
-
-</details>
- 
----
