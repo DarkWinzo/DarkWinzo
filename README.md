@@ -16,11 +16,11 @@
 
 ```javascript
 const skills = {
-    frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+    frontend: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS'],
     backend: ['Node.js', 'Python', 'Express', 'FastAPI'],
-    database: ['MongoDB', 'PostgreSQL', 'Redis'],
-    cloud: ['AWS', 'Docker', 'Kubernetes'],
-    ai_ml: ['TensorFlow', 'PyTorch', 'OpenAI API'],
+    database: ['MongoDB', 'PostgreSQL'],
+    cloud: ['AWS', 'Docker'],
+    ai_ml: ['GeminiAI API', 'OpenAI API'],
     tools: ['Git', 'VS Code', 'Postman', 'Figma']
 };
 ```
