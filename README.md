@@ -1,169 +1,123 @@
 <div align="center">
 
-<!-- 🌌 CYBERPUNK HUD ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=220&section=header&text=DARKWINZO&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20Founder%20%40%20DarkSide%20Developer%20Team%20%7C%20AI%20%26%20Bot%20Architect&descFontSize=19&descAlignY=62" width="100%" alt="DarkWinzo Cyberpunk Header" />
+<!-- Minimalist Aesthetic Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=DarkWinzo&fontSize=50&fontColor=38BDF8&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Automation%20Architect&descFontSize=18&descAlignY=65" width="100%" alt="Header" />
 
-<!-- ⚡ SIGNATURE TERMINAL TYPING ANIMATION -->
+<!-- Dynamic Typing SVG -->
 <a href="https://github.com/DarkWinzo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+DARKSIDE+PROTOCOL+v4.0...;%3E+ARCHITECT%3A+ISURU+LAKSHAN+(DARKWINZO);%3E+CREATOR+OF+QUEEN-MD+(100%2B+%E2%AD%90)+%26+QUEEN-AI;%3E+SPECIALIST%3A+BOT+ENGINES+%26+AUTONOMOUS+AI;%3E+BUILDING+NEXT-GEN+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Automation+Engineer;Founder+%40+DarkSide+Developer+Team;Creator+of+Queen-MD+%26+Queen-AI;Building+Scalable+Cloud+%26+AI+Systems" alt="Typing Animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- 🛡️ REAL-TIME SYSTEM TELEMETRY -->
-[![GitHub Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=TOTAL%20STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarkWinzo)](https://github.com/DarkWinzo?tab=repositories&sort=stargazers)
-[![GitHub Forks](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=repo-forked&color=7b2cbf&labelColor=5a189a&label=TOTAL%20FORKS&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DarkWinzo)](https://github.com/DarkWinzo?tab=repositories)
-[![GitHub Followers](https://custom-icon-badges.herokuapp.com/github/followers/DarkWinzo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white)](https://github.com/DarkWinzo?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=DarkWinzo&label=SYSTEM+VISITS&color=0284c7&style=for-the-badge)](https://github.com/DarkWinzo)
-
-</div>
-
----
-
-### 💻 `darkside_kernel.sh` — ARCHITECT TELEMETRY
-
-```bash
- __________________________________________________________________________________________
-| 🔴 🟡 🟢                                                           root@darkside-core:~# |
-|==========================================================================================|
-|  [IDENTITY]       : Isuru Lakshan // Alias: DarkWinzo                                    |
-|  [DESIGNATION]    : Lead Architect & Founder @ DarkSide Developer Team                   |
-|  [COORDINATES]    : 6.0535° N, 80.2210° E // Galle, Southern Province, Sri Lanka 🇱🇰       |
-|  [SECURITY_CLEAR] : LEVEL-07 [FULL-STACK & SYSTEM AUTOMATION PRIVILEGES]                 |
-|  [SYSTEM_STATUS]  : 🟢 ONLINE // High Concurrency & Active Development                  |
-|  [CORE_CREATIONS] : Queen-MD (100+ ⭐) | Queen-AI (40+ ⭐) | COLT | 3D Shop | ChatPulse222   |
-|  [SIGNATURE_MOTTO]: "🖥 Bringing Innovation to Life through Lines of Code"               |
-|__________________________________________________________________________________________|
-```
-
-- 👑 **Creator & Maintainer of Queen-MD**: The premier open-source multi-device WhatsApp engine (**100+ ⭐**, **1,300+ Forks worldwide**).
-- 🤖 **Author of Queen-AI**: Advanced artificial intelligence chatbot architecture engineered for multilingual conversations (**40+ ⭐**).
-- 🛡️ **DarkSide Developer Team**: Building high-impact automated developer tools, reverse-engineered APIs, and scalable web solutions.
-- ⚡ **Full-Stack Engineering**: Developing high-performance systems with TypeScript, Node.js, Next.js, React, Three.js, and Distributed Microservices.
-
----
-
-### 🏆 DARKSIDE MASTERPIECE SHOWCASE
-
-<div align="center">
-
-| Project Artifact | System Classification | Operational Tech Stack | Telemetry |
-| :--- | :--- | :---: | :---: |
-| 👑 **[Queen-MD](https://github.com/DarkWinzo/Queen-MD)** | WhatsApp Multi-Device Framework & Automation Suite | `JavaScript` `Node.js` `Baileys` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/Queen-MD?style=flat-square&color=38BDF8) ![Forks](https://img.shields.io/github/forks/DarkWinzo/Queen-MD?style=flat-square&color=A855F7) |
-| 🤖 **[Queen-AI](https://github.com/DarkWinzo/Queen-AI)** | Intelligent Multi-Language AI Conversational Bot | `JavaScript` `AI APIs` `Node.js` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=flat-square&color=38BDF8) ![Forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?style=flat-square&color=A855F7) |
-| ⚡ **[COLT](https://github.com/DarkWinzo/COLT)** | AI-Powered Code Assistant & Developer Productivity Engine | `JavaScript` `Node.js` `LLM` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/COLT?style=flat-square&color=38BDF8) |
-| 🛍️ **[3D Online Shop](https://github.com/DarkWinzo/3d-online-shop)** | Interactive WebGL 3D MERN Stack E-Commerce Platform | `TypeScript` `React` `Three.js` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/3d-online-shop?style=flat-square&color=38BDF8) |
-| 📡 **[ChatPulse222](https://github.com/DarkWinzo/ChatPulse222)** | High-Throughput WhatsApp Web API Library & Socket Handler | `JavaScript` `WebSockets` `API` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/ChatPulse222?style=flat-square&color=38BDF8) |
-| 📸 **[CameraHack](https://github.com/DarkWinzo/CameraHack)** | Cyber Security & Hardware Media Research Utility | `HTML5` `JavaScript` `CSS3` | ![Stars](https://img.shields.io/github/stars/DarkWinzo/CameraHack?style=flat-square&color=38BDF8) |
+<!-- Sleek Unified Badges -->
+[![Followers](https://img.shields.io/github/followers/DarkWinzo?style=for-the-badge&logo=github&color=0f172a&logoColor=38bdf8&labelColor=020617)](https://github.com/DarkWinzo?tab=followers)
+[![Stars](https://img.shields.io/badge/Stars-210%2B-0f172a?style=for-the-badge&logo=apachespark&logoColor=f59e0b&labelColor=020617)](https://github.com/DarkWinzo)
+[![Forks](https://img.shields.io/badge/Forks-1.3k%2B-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8&labelColor=020617)](https://github.com/DarkWinzo)
+[![Location](https://img.shields.io/badge/Location-Galle%2C%20Sri%20Lanka-0f172a?style=for-the-badge&logo=googlemaps&logoColor=10b981&labelColor=020617)](https://maps.google.com)
+[![Status](https://img.shields.io/badge/Available-For%20Hire-0f172a?style=for-the-badge&logo=checkmarx&logoColor=22c55e&labelColor=020617)](mailto:DarkWinzo4440@gmail.com)
 
 </div>
 
 ---
 
-### ⚡ TECHNICAL ARSENAL & WEAPONRY
+### 🚀 About Me
+
+I am a **Full-Stack Developer** and **AI Systems Architect** with a passion for building high-concurrency bots, modern web applications, and intelligent developer tooling.
+
+- 🛡️ **Founder & Lead** at **DarkSide Developer Team**, driving open-source automation projects.
+- 👑 **Creator of Queen-MD** (100+ ⭐, 1,350+ Forks) & **Queen-AI** (40+ ⭐) — leading multi-device WhatsApp automation systems.
+- 💻 **Core Engineering**: Specialized in TypeScript, Node.js microservices, React, Next.js, and Three.js 3D web experiences.
+- 📍 Based in **Galle, Sri Lanka 🇱🇰**, collaborating with developers and teams globally.
+
+---
+
+### 🌟 Featured Projects
 
 <div align="center">
 
-#### **Core Languages & Runtimes**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Languages" />
-</p>
+<a href="https://github.com/DarkWinzo/Queen-MD">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DarkWinzo&repo=Queen-MD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Queen-MD" />
+</a>
+&nbsp;
+<a href="https://github.com/DarkWinzo/Queen-AI">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DarkWinzo&repo=Queen-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Queen-AI" />
+</a>
 
-#### **Frontend Architecture & 3D WebGL**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs,figma" alt="Frontend" />
-</p>
+<br/><br/>
 
-#### **Backend, APIs & Distributed Storage**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,mysql" alt="Backend" />
-</p>
+<a href="https://github.com/DarkWinzo/COLT">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DarkWinzo&repo=COLT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="COLT" />
+</a>
+&nbsp;
+<a href="https://github.com/DarkWinzo/3d-online-shop">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DarkWinzo&repo=3d-online-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="3d-online-shop" />
+</a>
 
-#### **Cloud, DevOps & Infrastructure**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,vercel" alt="Tools" />
+</div>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,cpp,html,css" alt="Tech Stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,aws,git,github,vscode,postman,figma" alt="Tools" />
 </p>
 
 </div>
 
 ---
 
-### 📊 SYSTEM TELEMETRY & GITHUB RADAR
+### 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkWinzo&theme=tokyonight" alt="DarkWinzo Profile Details" />
-  
-  <br/>
-
-  <!-- Language Breakdown & Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkWinzo&theme=tokyonight" alt="Repos per Language" />
+  <!-- Side-by-Side Symmetrical Stats Cards -->
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarkWinzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkWinzo&theme=tokyonight" alt="Productive Time" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkWinzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- GitHub Streak Matrix -->
+  <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=DarkWinzo&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 📈 NEON CONTRIBUTION MATRIX
+### 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/DarkWinzo" alt="DarkWinzo Electric Blue Contribution Flow" width="100%" />
+  <img src="https://ghchart.rshah.org/38bdf8/DarkWinzo" alt="DarkWinzo Contribution Chart" width="100%" />
 </div>
 
 ---
 
-### 💬 DEVELOPER DISPATCH QUOTE
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</div>
-
----
-
-### 🛡️ VERIFIED DEVELOPER FINGERPRINT
-
-```text
-╔═════════════════════════════════════════════════════════════════════════════════════════════╗
-║  CRYPTOGRAPHIC SIGNATURE : DARKWINZO // VERIFIED GITHUB DEVELOPER                           ║
-║  NODE_ID                 : U_kgDOBZaXuA                                                     ║
-║  ACCOUNT_UID             : 93755320                                                         ║
-║  ORGANIZATION            : DARKSIDE DEVELOPER TEAM (OFFICIAL FOUNDER & LEAD)                ║
-║  TERRITORY               : GALLE, SRI LANKA 🇱🇰 [6.0535° N, 80.2210° E]                       ║
-║  REPOSITORIES FORKED     : 1,350+ TIMES ACROSS GLOBAL DEVELOPER COMMUNITIES                 ║
-║  STATUS                  : ACTIVE ARCHITECT // READY TO DEPLOY & INNOVATE                   ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-### 🛰️ TRANSMISSION & COLLABORATION PROTOCOLS
+### 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:DarkWinzo4440@gmail.com">
-  <img src="https://img.shields.io/badge/SECURE%20MAIL-DarkWinzo4440%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Email-DarkWinzo4440%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=020617" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kk-isuru-lakshan">
-  <img src="https://img.shields.io/badge/LINKEDIN-Isuru%20Lakshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Isuru%20Lakshan-0f172a?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=020617" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/DarkWinzo">
-  <img src="https://img.shields.io/badge/GITHUB-DarkWinzo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-DarkWinzo-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<!-- Subtle Minimal Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=90&section=footer" width="100%" alt="Footer" />
 
-<!-- 🌊 CYBERPUNK WAVING FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=110&section=footer&text=DARKWINZO%20%E2%80%A2%20DARKSIDE%20DEVELOPER%20TEAM%20%E2%80%A2%20SRI%20LANKA%20%E2%9A%A1&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
 </div>
